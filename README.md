@@ -1,3 +1,4 @@
+### Ingat Jadikan Repo ini sebagai Referensi saja...
 # Galeri Gambar
 
 Berikut adalah beberapa gambar terkait:
